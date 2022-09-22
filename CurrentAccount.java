@@ -5,7 +5,7 @@ private double balance;
 	
 	public CurrentAccount() {
 		super();
-		// TODO Auto-generated constructor stub
+		
 	}
 
 	public CurrentAccount(double balance) {//set balance
