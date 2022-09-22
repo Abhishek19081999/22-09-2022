@@ -1,7 +1,8 @@
 package com.inheritance_interface.bll;
 
 public interface BankAccount {
-public double getBalance();
+	
+	public double getBalance();
 	
 	public void deposit(double amount);//deposit amount
 	
