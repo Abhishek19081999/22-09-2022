@@ -13,7 +13,7 @@ public class Book extends Author {
 	//parameterized constructor for isbn,name,author,price 
 	public Book(String isbn,String name, Author author, double price) {
 		
-		super(author);
+		
 		this.isbn=isbn;
 		this.author=author;
 		this.name = name;
@@ -24,7 +24,7 @@ public class Book extends Author {
 	//parameterized constructor for isbn,name,author,price and qty
 	public Book(String isbn,String name,Author author,double price, int qty)
 	{
-		super(author);
+		
 		this.isbn=isbn;
 		this.name=name;
 		this.author=author;
