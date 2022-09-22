@@ -5,7 +5,7 @@ private double balance;
 	
 	public BusinessAccount() {
 		super();
-		// TODO Auto-generated constructor stub
+		
 	}
 	
 	public BusinessAccount(double balance) {//set balance
